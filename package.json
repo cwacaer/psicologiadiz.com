@@ -1,0 +1,16 @@
+{
+  "name": "psicologiadiz.com_cwacaer_gmail.com_xqjoiq0g0s_backup",
+  "version": "1.0.0",
+  "main": "beacon.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-beautify": "^1.15.4",
+    "jsdom": "^26.1.0"
+  }
+}
